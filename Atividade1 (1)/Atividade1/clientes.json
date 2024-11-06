@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "campanha": "Promoção de Verão"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Oliveira",
+    "campanha": "Campanha de Natal"
+  }
+]
